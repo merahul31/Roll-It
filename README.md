@@ -16,4 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 This is a virtual dice roller application created in Flutter. 
 It generates a random dice value every time the user rolls the dice by clicking on any one dice.
 
-<img src="/readme_images/Screenshot_2021-05-29-12-22-19-20.jpg" width="250"> <img src="/readme_images/Screenshot_2021-05-29-12-22-27-95.jpg" width="250">
+<img src="/readme_images/main_1.jpg" width="250"> <img src="/readme_images/main_2.jpg" width="250">
